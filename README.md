@@ -9,11 +9,11 @@ This repository is a showcase of projects completed as part of my Master of Prof
 - *Duration:* [01/08/2024] - [Expected Graduation Date-12/31/2025]
 
 ## Projects
-1. [Project 1](link-to-project1): Brief description.
-2. [Project Name 2](link-to-project2): Brief description.
+1. [Project 1 of ALY 6000](Faizan_Project1_Script.R.R): Brief description.
+2. [Project 2 of ALY 6000](Faizan_Project2R.R): Brief description.
    ...
 
 ## Contact
 Feel free to contact me for inquiries or collaborations:
-- Email: your.email@example.com
+- Email: faizan.s@northeastern.edu
 - LinkedIn: [Your LinkedIn Profile](link-to-linkedin)

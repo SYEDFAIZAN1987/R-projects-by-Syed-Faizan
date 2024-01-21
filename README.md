@@ -15,6 +15,7 @@ This repository is a showcase of projects completed as part of my Master of Prof
 Module 1 of ALY 6000 introduces the RStudio environment in which we solve a list of prescribed problems in R. The problems are designed to 
 enable us to develop competency with statements, variable assignments, different expressions, vectors and their manipulation, matrices, 
 functionality of R, and the installation and loading of packages in R.
+The [project report](Faizan_Project1_Report.pdf.pdf) is available here.
 
 Historical Overview 
 
@@ -22,7 +23,8 @@ R is a programming language and environment for statistical computing
 and graphics developed by Ross Ihaka and Robert Gentleman at the 
 University of Auckland, New Zealand, in the early 1990s. It is a 
 successor of the S language and has gained tremendous popularity within the data science community as it is open-source and is equipped with
-extensive libraries for statistical modeling and visualization. 
+extensive libraries for statistical modeling and visualization.
+The [project report](Faizan_Project2_Report.pdf) is available here.
 
 2. [Project 2 of ALY 6000](Faizan_Project2_RScript.R): 
 

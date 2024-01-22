@@ -26,7 +26,7 @@ successor of the S language and has gained tremendous popularity within the data
 extensive libraries for statistical modeling and visualization.
 The [project report](Faizan_Project2_Report.pdf) is available here.
 
-2. [Project 2 of ALY 6000](Faizan_Project2_RScript.R): 
+2. [Project 2 of ALY 6000](Faizan_Project2.0.R): 
 
 Module 2 Project of ALY 6000 was a two-part project in which I practiced working with different datasets. In Part One, I analyzed happiness and freedom indices from a range of countries. In Part Two, Major League Baseball provided the background for the data analysis.  I wrangled datasets through a range of operations, including column and row selection; data filtering, sorting, and augmenting. I have finally summarized the data utilizing built-in descriptive statistics. After completing the R script, I included the analysis and my final conclusion in a report.
 

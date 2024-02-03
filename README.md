@@ -30,6 +30,9 @@ The [project report](Faizan_Project2_Report.pdf) is available here.
 
 Module 2 Project of ALY 6000 was a two-part project in which I practiced working with different datasets. In Part One, I analyzed happiness and freedom indices from a range of countries. In Part Two, Major League Baseball provided the background for the data analysis.  I wrangled datasets through a range of operations, including column and row selection; data filtering, sorting, and augmenting. I have finally summarized the data utilizing built-in descriptive statistics. After completing the R script, I included the analysis and my final conclusion in a report.
 
+3. 2. [Project 3 of ALY 6000](Faizan_Project3.0.R):
+   3. 
+
 ## Contact
 Feel free to contact me for inquiries or collaborations:
 - Email: faizan.s@northeastern.edu

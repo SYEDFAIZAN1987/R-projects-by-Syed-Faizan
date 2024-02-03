@@ -33,4 +33,4 @@ Module 2 Project of ALY 6000 was a two-part project in which I practiced working
 ## Contact
 Feel free to contact me for inquiries or collaborations:
 - Email: faizan.s@northeastern.edu
-- LinkedIn: [Your LinkedIn Profile](link-to-linkedin)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/dr-syed-faizan-md-532ba72ab/)
